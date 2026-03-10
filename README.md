@@ -1,6 +1,6 @@
 # セミナー第2回
 Google Colabで実行することを前提としています。
-まず、segmentationUnet_v2 フォルダをダウンロードしてください。
+まず、SegmentationUnet_v2 フォルダをダウンロードしてください。
 次に、そのフォルダを Google Drive にアップロードします。
 アップロードする場所は、次の場所です。
 /content/drive/MyDrive/UOEH_UKK
